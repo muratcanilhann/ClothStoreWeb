@@ -4,8 +4,12 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",],
   theme: {
     extend: {
+     
       fontFamily:{
-        notoSans: ["Noto Sans", "sans-serif"],
+        beatriceDisplayTrial: ["Beatrice Display Trial", "sans-serif"],
+      },
+      backgroundImage: {
+        "noisy-background": "url(./src/assets/noisy-background.png)"
       }
     },
   },

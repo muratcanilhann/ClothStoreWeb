@@ -1,8 +1,6 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Check out the live demo of the project [here](https://mrtilhan-ecommerce.netlify.app/).
 
-Currently, two official plugins are available:
+This project uses **Strapi CMS**, which is also available on my [GitHub profile](https://github.com/muratcanilhann/Strapi-Ecommerce), and it has been deployed on **Render**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The design for this project was inspired by this [Figma UI Kit](https://www.figma.com/design/D3LjmWvmeGI9VjRIrStQ5a/Cloth-Store-%7C-Fashion-Store-%7C-E-commerce-UI-Kit-(Community)?node-id=0-1&node-type=canvas&t=nRFQFyqPI98b0U4H-0).

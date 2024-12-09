@@ -6,3 +6,7 @@ This project uses **Strapi CMS**, which is available on my [Strapi Ecommerce pro
 The design for this project was inspired by this [Figma UI Kit](https://www.figma.com/design/D3LjmWvmeGI9VjRIrStQ5a/Cloth-Store-%7C-Fashion-Store-%7C-E-commerce-UI-Kit-(Community)?node-id=0-1&node-type=canvas&t=nRFQFyqPI98b0U4H-0).
 
 **Development is ongoing.**
+
+Login for
+email: admin@gmail.com
+password: 123456

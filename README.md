@@ -1,3 +1,4 @@
+# Ulti-Ecommerce Project
 
 Check out the live demo of the project [here](https://mrtilhan-ecommerce.netlify.app/).
 
@@ -7,6 +8,31 @@ The design for this project was inspired by this [Figma UI Kit](https://www.figm
 
 **Development is ongoing.**
 
-Login for
-email: admin@gmail.com
-password: 123456
+---
+
+### ⚠️ Important Note  
+The Strapi CMS backend is hosted on **Render**, which enters a "sleep" mode after a period of inactivity. During this time, data may not load immediately, but the backend will wake up shortly after the first request.
+
+---
+
+### 🖼️ Screenshots  
+<p align="center">
+  <img src="./screenshots/logo.png" width="150" />
+</p>
+
+<p align="center">
+  <img src="./screenshots/ss1.png" width="300" />
+  <img src="./screenshots/ss2.png" width="300" />
+  <img src="./screenshots/ss3.png" width="300" />
+  <img src="./screenshots/ss4.png" width="300" />
+  <img src="./screenshots/ss5.png" width="300" />
+  <img src="./screenshots/ss6.png" width="300" />
+  <img src="./screenshots/ss7.png" width="300" />
+  <img src="./screenshots/ss8.png" width="300" />
+</p>
+
+---
+
+### 🔑 Login  
+- **Email**: `admin@gmail.com`  
+- **Password**: `123456`

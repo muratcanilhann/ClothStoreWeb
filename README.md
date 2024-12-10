@@ -16,9 +16,7 @@ The Strapi CMS backend is hosted on **Render**, which enters a "sleep" mode afte
 ---
 
 ### 🖼️ Screenshots  
-<p align="center">
-  <img src="./screenshots/logo.png" width="150" />
-</p>
+
 
 <p align="center">
   <img src="./screenshots/ss1.png" width="300" />
